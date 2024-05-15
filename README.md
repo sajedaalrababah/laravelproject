@@ -11,6 +11,7 @@
 
     Clone the repository to your local machine using the following command:
     ```bash
+    git@github.com:sajedaalrababah/laravelproject.git
     ```
 
 **Navigate to the Project Directory**
